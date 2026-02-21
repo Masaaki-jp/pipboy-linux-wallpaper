@@ -4,7 +4,7 @@
 LinuxのタックスとFalloutのPip-Boyを融合させた、レトロフューチャーな壁紙です。
 
 ## Preview
-![Wallpaper Preview](<img width="2752" height="1536" alt="pipboy-linux-wallpaper" src="https://github.com/user-attachments/assets/c7d22a17-65a6-4923-aa61-c66c7c638b17" />
+!(<img width="2752" height="1536" alt="pipboy-linux-wallpaper" src="https://github.com/user-attachments/assets/c7d22a17-65a6-4923-aa61-c66c7c638b17" />
 
 
 ## Features
